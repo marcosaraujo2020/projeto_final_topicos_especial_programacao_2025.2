@@ -1,0 +1,19 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do sistema
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
