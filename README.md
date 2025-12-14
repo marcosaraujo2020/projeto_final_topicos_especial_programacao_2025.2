@@ -1,15 +1,16 @@
 # 📊 Classificação Binária de SMS com LIME e SHAP
 
 Aplicação completa em **Streamlit** para estudo de *Machine Learning
-explicável* utilizando o dataset **SMS Spam Collection**.
+explicável* utilizando o dataset **[SMS Spam Collection](https://archive.ics.uci.edu/dataset/228/sms+spam+collection)**.
 
 ___________
-
 ### 🎥 Assista ao Vídeo clicando na imagem a seguir:
 
 [![Assista ao vídeo do projeto](https://img.youtube.com/vi/8dBJcdqtjCY/0.jpg)](https://www.youtube.com/watch?v=8dBJcdqtjCY)
 
-### 👉 [Abrir Questionário em PDF](docs/Questionario_Atividade_Final_Topicos.pdf)
+### 👉 [Abrir Questionário em PDF 📄](docs/Questionario_Atividade_Final_Topicos.pdf)
+
+### 👉 [Abrir Relatório dos Resultados em PDF 📄](docs/Relatorio_dos_Resultados.pdf)
 
 
 ------------------------------------------------------------------------
