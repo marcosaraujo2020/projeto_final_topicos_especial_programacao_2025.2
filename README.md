@@ -1,5 +1,8 @@
 # 📊 Classificação Binária de SMS com LIME e SHAP
 
+[![Assista ao vídeo do projeto](https://img.youtube.com/vi/8dBJcdqtjCY/0.jpg)](https://www.youtube.com/watch?v=8dBJcdqtjCY)
+
+
 Aplicação completa em **Streamlit** para estudo de *Machine Learning
 explicável* utilizando o dataset **SMS Spam Collection**.
 
