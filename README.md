@@ -1,5 +1,7 @@
 # 📊 Classificação Binária de SMS com LIME e SHAP
 
+### 🎥 Assista ao Vídeo clicando na imagem a seguir:
+
 [![Assista ao vídeo do projeto](https://img.youtube.com/vi/8dBJcdqtjCY/0.jpg)](https://www.youtube.com/watch?v=8dBJcdqtjCY)
 
 
